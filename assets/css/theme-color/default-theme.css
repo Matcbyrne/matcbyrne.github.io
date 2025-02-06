@@ -1,6 +1,6 @@
 
 /*=======================================
-Template Design By MarkUps	
+Template Design By MarkUps
 Author URI : http://www.markups.io/
 ========================================*/
 
@@ -38,12 +38,12 @@ Author URI : http://www.markups.io/
 .mu-skill-progress-bar .mu-pro-bar,
 #mu-featured-slider,
 #mu-header.mu-fixed-nav {
-	background-color: #339999;
+	background-color: #1d5191;
 }
 
 .mu-contact-form .form-control:focus {
-	border: 1px solid #339999;    
-} 
+	border: 1px solid #339999;
+}
 
 .mu-resume-btn,
 .mu-service-icon-box {
